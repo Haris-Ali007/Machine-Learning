@@ -1,4 +1,4 @@
 # Machine-Learning
-This repository consists of machine learning algorithms implemented from scratch.
+This repository is all about applying all kinds of various machine learning algorithms to solve our problems.
 
  
